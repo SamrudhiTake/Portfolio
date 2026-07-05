@@ -1,5 +1,5 @@
 import React from 'react'
-import profileimg from '../assets/WhatsApp.jpeg'
+import profileimg from '../../assets/WhatsApp.jpeg'
 
 const RightCard = () => {
   return (
