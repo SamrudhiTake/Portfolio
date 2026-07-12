@@ -1,8 +1,13 @@
 import React from 'react'
+import Part1 from './Part1'
+import Part2 from './Part2'
 
 const About = () => {
   return (
-    <div className='bg-black text-amber-50'>About</div>
+    <div >
+      <Part1/>
+      <Part2/>
+    </div>
   )
 }
 
